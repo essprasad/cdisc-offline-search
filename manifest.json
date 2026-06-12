@@ -8,8 +8,8 @@
     "theme_color": "#6A1B9A",
     "description": "Search CDISC standards, terminology and implementation guides.",
     "orientation": "portrait-primary",
-    "prefer_related_applications": false
-}
+    "prefer_related_applications": false,
+
     "icons": [
         {
             "src": "icons/Icon-192.png",
