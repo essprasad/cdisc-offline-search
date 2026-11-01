@@ -1,12 +1,11 @@
 {
-    "name": "CDISC Offline Search",
-    "short_name": "CDISC Search",
-    "start_url": "/cdisc-offline-search/",
-    "scope": "/cdisc-offline-search/",
+    "name": "cdisc_termdatasetsearch",
+    "short_name": "cdisc_termdatasetsearch",
+    "start_url": ".",
     "display": "standalone",
-    "background_color": "#FFFFFF",
-    "theme_color": "#6A1B9A",
-    "description": "Search CDISC standards, terminology and implementation guides.",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
